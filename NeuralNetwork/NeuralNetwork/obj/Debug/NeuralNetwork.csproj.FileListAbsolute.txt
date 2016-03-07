@@ -1,0 +1,1 @@
+E:\GitRepos\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
